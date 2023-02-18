@@ -28,7 +28,7 @@ Hosting - [Netlify](https://www.netlify.com/)
 Install dependencies
 
 ```bash
-yarn install
+npm install
 ```
 
 ### Development
